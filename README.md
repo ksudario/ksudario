@@ -1,4 +1,4 @@
-<p align="center"><img src="Katrina Banner.gif" alt="Katrina's Banner"></p>   
+<p align="center"><img src="https://github.com/ksudario/ksudario/blob/master/Katrina Banner.gif" alt="Katrina's Banner"></p>   
 
 ##Hey
 
