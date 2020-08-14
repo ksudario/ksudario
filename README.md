@@ -6,6 +6,8 @@
 - 📫 Reach me here: sudariokatrina@gmail.com
 - ✍🏻 Writing my thoughts and my developer journery over at https://medium.com/@sudariokatrina
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksudario&layout=compact)](https://github.com/ksudario/github-readme-stats)
 
 <!--
